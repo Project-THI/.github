@@ -1,5 +1,11 @@
 ## Hi there 👋
 Project 
+
+## Groups
+- Group 01 - "Germans" - [Link](https://github.com/Project-THI/project_medbg)
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
