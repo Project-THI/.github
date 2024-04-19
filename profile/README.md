@@ -2,7 +2,12 @@
 Project 
 
 ## Groups
-- Group 01 - "Germans" - [Link](https://github.com/Project-THI/project_medbg)
+- Group 01 - "Encoder/Decoder Approach" - [Link](https://github.com/Project-THI/Encoder-Decoder)
+- Group 02 - "Normalizing Flows Approach" - [Link](https://github.com/Project-THI/Normalizing-Flows)
+- Group 03 - "Cycle GAN Approach" - [Link](https://github.com/Project-THI/Cycle-GAN)
+- Group 04 - "Hough Transformations Approach" - [Link](https://github.com/Project-THI/Hough-Transformations)
+
+- Collaborative Group: - [Link](https://github.com/Project-THI/project_medbg)
 
 
 
